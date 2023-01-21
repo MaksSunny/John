@@ -162,6 +162,58 @@ header nav ul li:hover{
 .content{
     margin-left: 18px;
 }
+/*Page blog*/
+.size_page{
+    max-width: 681px;
+    margin: auto;
+}
+.title_blog{
+    font-style: normal;
+    font: 44px/60px 'heebobold';
+    color: #21243D;
+    margin-bottom: 55px;
+}
+.subtitle_blog{
+    font-style: normal;
+    font: 30px/44px 'heebomedium';
+    color: #21243D;
+    margin-top: 40px;
+}
+.blog_blog{
+    color: #FF6464;;
+}
+.blog_page{
+    padding-top: 106px;
+    padding-bottom: 53px;
+}
+.line_blog{
+    border: 1px solid #E0E0E0;
+    width: 681px;
+}
+.data_blog{
+    font-style: normal;
+    font: 400 20px/29px 'heeboregular';
+    color: #21243D;
+    display: inline;
+}
+.vertical_line{
+    display: inline;
+    border-right: 1px solid #000000;
+    margin: 0px 20px;
+}
+.position_blog{
+    display: inline;
+    font-style: normal;
+    font: 20px/29px 'heeboregular';
+    color: #8695A4;
+}
+.text_blog{
+    font-style: normal;
+    font: 16px/24px 'heeboregular';
+    color: #21243D;
+    margin-bottom: 29px;
+}
+
 
 /*footer*/
 footer{
